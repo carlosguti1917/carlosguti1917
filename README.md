@@ -18,5 +18,6 @@ Here are some ideas to get you started:
 I have a Bachelor's in Information Systems, an MSc. in Information and Enterprise Systems at UAB of Lisbon, and currently I´m Ph.D. Candidate in Web Technology at UTAD (Universidade de Trás-os-Montes e Alto Douro) of Portugal.
 - 🔭 I’m working on my thesis, aiming to use Data Mining techniques for enterprise architecture discovery.
 - I´m also working for Sensedia as an Integration Architect Consultant.
+- 👯 I’m interested in APIs, Microservices Architecture, Enterprise Architecture, Data Mining, and IA.
 
 
